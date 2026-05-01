@@ -5,7 +5,7 @@
 | Field         | Details                          |
 |---------------|----------------------------------|
 | Name          | Shivakumar Hosamani              |
-| USN           | 2BL24CS415                       |
+| USN           | 2BL24CS420                       |
 | Branch        | Computer Science & Engineering   |
 | Semester      | VI Semester                      |
 | Subject       | Advanced Java Programming        |
